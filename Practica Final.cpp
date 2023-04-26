@@ -20,7 +20,7 @@ int main(){
 	
 	do{
 		system("cls");
-		printf("\t\tPrograma para ordenar los datos del usuario de acuerdo al tipo de ordenamiento que desee\n\n");
+		printf("\t\tPrograma para ordenar los datos del usuario de acuerdo al tipo de ordenamiento que el desee\n\n");
 		 Agregar();
 		
 		printf("\nSeleccione como desea ordenar los valores:\n");
